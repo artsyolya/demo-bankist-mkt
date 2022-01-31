@@ -678,11 +678,11 @@ footer {
     left: 0;
     /* right: -20px; */
     width: 440px;
-    background: rgb(11, 138, 103);
+    background: var(--gradient-backup-color);
     background: linear-gradient(
-      45deg,
-      rgba(11, 138, 103, 1) 0%,
-      rgba(0, 255, 164, 1) 100%
+      75deg,
+      rgba(176, 228, 142, 1) 0%,
+      rgba(117, 200, 165, 1) 100%
     );
     transform-origin: 0 0;
     transform: skew(-26.5deg) translateX(-120%);
