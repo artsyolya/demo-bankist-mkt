@@ -739,6 +739,9 @@ footer {
   }
 
   /* Header Section */
+  .header {
+    height: 100vh;
+  }
   .header__title {
     grid-template-columns: 1fr;
     padding-top: 8rem;
@@ -752,7 +755,6 @@ footer {
     width: 70%;
     transform: translateY(0);
     margin: 3rem auto 0;
-    z-index: -1;
   }
 
   /* Recurring Sections */
