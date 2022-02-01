@@ -107,7 +107,7 @@ nav.addEventListener("mouseout", function (e) {
 // Make nav bar sticky shortly before header section ends and disappear shortly before it starts again when scrolling
 
 if (window.innerWidth > 430) {
-  const navHeight = nav.getBoundingClientRect().height * 2;
+  const navHeight = nav.getBoundingClientRect().height;
   console.log(navHeight);
 
   const stickyNav = function (entries) {
