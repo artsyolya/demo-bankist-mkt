@@ -16,7 +16,7 @@ A landing page for a mock banking website developed from a template.
 * Reviews slider in the Testimonials section
 
 
-## Technologies Used
+## Languages Used
 
 * JavaScript ES6
 * HTML5
